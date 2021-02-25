@@ -336,7 +336,7 @@ seo:
       value: Alpha Labs Innovation Accelerator
       keyName: property
     - name: 'og:description'
-      value: The preview of the DIY theme
+      value: Your True Innovation Partner.
       keyName: property
     - name: 'og:image'
       value: images/diy-preview.png
