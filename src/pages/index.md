@@ -269,7 +269,7 @@ sections:
       - title: Gustav Purpleson
         subtitle: Co-Founder & CEO
         title_align: center
-        image: images/russell-sprout.jpg
+        image: images/ursula-gurnmeister.jpg
         image_position: top
       - title: Dianne Ameter
         subtitle: Software Engineer
