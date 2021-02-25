@@ -347,7 +347,7 @@ seo:
     - name: 'twitter:title'
       value: Alpha Labs Innovation Accelerator
     - name: 'twitter:description'
-      value: The preview of the DIY theme
+      value: Your True Partner in Empowering your Innovation Journey.
     - name: 'twitter:image'
       value: images/diy-preview.png
       relativeUrl: true
