@@ -4,9 +4,9 @@ sections:
   - type: hero_section
     title: Innovation Tuned
     subtitle: Empowering the Innovator in you...
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+    content: >
+      A True Partner you can rely on in getting your Innovation Ahead of the
+      Game.
     actions:
       - label: Try Free
         url: /pricing
