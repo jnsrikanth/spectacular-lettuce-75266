@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Innovation Tuned
-    subtitle: Optional hero section subtitle
+    subtitle: Empowering the Innovator in you...
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
