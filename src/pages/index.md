@@ -333,7 +333,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit DIY Theme
+      value: Alpha Labs Innovation Accelerator
       keyName: property
     - name: 'og:description'
       value: The preview of the DIY theme
